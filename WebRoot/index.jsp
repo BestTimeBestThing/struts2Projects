@@ -23,6 +23,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    <a href="test.action">Map类型的request、session、application</a>
+    <a href="test.action">Map的request、session、application</a>
   </body>
 </html>
